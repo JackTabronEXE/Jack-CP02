@@ -1,0 +1,23 @@
+{
+  "name": "jack-cp02",
+  "version": "1.0.0",
+  "description": "Jack Trello Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackTabronEXE/Jack-CP02.git"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackTabronEXE/Jack-CP02/issues"
+  },
+  "homepage": "https://github.com/JackTabronEXE/Jack-CP02#readme",
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "protractor": "^7.0.0"
+  }
+}
